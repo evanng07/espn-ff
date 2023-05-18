@@ -1,0 +1,257 @@
+pick,evans_team,position,player,player_team,year
+1,Shawn,RB,Derrick Henry,Tennessee Titans,2021
+19,Renard,WR,Julio Jones,Tennessee Titans,2021
+21,Dustin,WR,A.J. Brown,Tennessee Titans,2021
+103,Alan,QB,Ryan Tannehill,Tennessee Titans,2021
+2,Solomon,RB,Christian McCaffrey,Carolina Panthers,2021
+71,Alan,WR,DJ Moore,Carolina Panthers,2021
+93,Sai,WR,Robby Anderson,Carolina Panthers,2021
+3,Renard,RB,Nick Chubb,Cleveland Browns,2021
+44,Dustin,RB,Kareem Hunt,Cleveland Browns,2021
+83,Renard,WR,Jarvis Landry,Cleveland Browns,2021
+94,Renard,D/ST,Browns D/ST,Cleveland Browns,2021
+4,Sai,RB,Dalvin Cook,Minnesota Vikings,2021
+22,Evan,WR,Justin Jefferson,Minnesota Vikings,2021
+48,Shawn,WR,Adam Thielen,Minnesota Vikings,2021
+5,Dustin,RB,Alvin Kamara,New Orleans Saints,2021
+119,Alan,WR,Michael Thomas,New Orleans Saints,2021
+6,Evan,WR,Davante Adams,Green Bay Packers,2021
+11,Evan,RB,Aaron Jones,Green Bay Packers,2021
+64,Shawn,QB,Aaron Rodgers,Green Bay Packers,2021
+109,Sai,D/ST,Packers D/ST,Green Bay Packers,2021
+111,Solomon,TE,Robert Tonyan,Green Bay Packers,2021
+7,Alan,RB,Saquon Barkley,New York Giants,2021
+98,Solomon,WR,Kenny Golladay,New York Giants,2021
+122,Alan,K,Graham Gano,New York Giants,2021
+8,Jordan,RB,Ezekiel Elliott,Dallas Cowboys,2021
+29,Sai,WR,Amari Cooper,Dallas Cowboys,2021
+39,Alan,WR,CeeDee Lamb,Dallas Cowboys,2021
+66,Solomon,QB,Dak Prescott,Dallas Cowboys,2021
+100,Sai,WR,Michael Gallup,Dallas Cowboys,2021
+116,Sai,RB,Tony Pollard,Dallas Cowboys,2021
+9,Jordan,WR,Tyreek Hill,Kansas City Chiefs,2021
+13,Sai,TE,Travis Kelce,Kansas City Chiefs,2021
+20,Sai,QB,Patrick Mahomes,Kansas City Chiefs,2021
+31,Solomon,RB,Clyde Edwards-Helaire,Kansas City Chiefs,2021
+73,Jordan,K,Harrison Butker,Kansas City Chiefs,2021
+10,Alan,RB,Austin Ekeler,Los Angeles Chargers,2021
+34,Solomon,WR,Keenan Allen,Los Angeles Chargers,2021
+62,Renard,QB,Justin Herbert,Los Angeles Chargers,2021
+12,Dustin,RB,Jonathan Taylor,Indianapolis Colts,2021
+113,Shawn,WR,Michael Pittman Jr.,Indianapolis Colts,2021
+14,Renard,WR,Stefon Diggs,Buffalo Bills,2021
+40,Jordan,QB,Josh Allen,Buffalo Bills,2021
+97,Shawn,D/ST,Bills D/ST,Buffalo Bills,2021
+15,Solomon,WR,DeAndre Hopkins,Arizona Cardinals,2021
+43,Evan,QB,Kyler Murray,Arizona Cardinals,2021
+52,Sai,RB,Chase Edmonds,Arizona Cardinals,2021
+89,Jordan,RB,James Conner,Arizona Cardinals,2021
+16,Shawn,RB,Najee Harris,Pittsburgh Steelers,2021
+55,Alan,WR,Diontae Johnson,Pittsburgh Steelers,2021
+61,Sai,D/ST,Steelers D/ST,Pittsburgh Steelers,2021
+72,Jordan,WR,Chase Claypool,Pittsburgh Steelers,2021
+91,Evan,WR,JuJu Smith-Schuster,Pittsburgh Steelers,2021
+128,Shawn,QB,Ben Roethlisberger,Pittsburgh Steelers,2021
+17,Shawn,WR,DK Metcalf,Seattle Seahawks,2021
+36,Sai,RB,Chris Carson,Seattle Seahawks,2021
+45,Sai,WR,Tyler Lockett,Seattle Seahawks,2021
+58,Alan,QB,Russell Wilson,Seattle Seahawks,2021
+81,Shawn,K,Jason Myers,Seattle Seahawks,2021
+18,Solomon,WR,Calvin Ridley,Atlanta Falcons,2021
+46,Renard,TE,Kyle Pitts,Atlanta Falcons,2021
+53,Dustin,K,Younghoe Koo,Atlanta Falcons,2021
+79,Solomon,RB,Mike Davis,Atlanta Falcons,2021
+23,Alan,RB,Antonio Gibson,Washington Commanders,2021
+28,Dustin,WR,Terry McLaurin,Washington Commanders,2021
+60,Dustin,TE,Logan Thomas,Washington Commanders,2021
+67,Renard,D/ST,Commanders D/ST,Washington Commanders,2021
+24,Jordan,RB,James Robinson,Jacksonville Jaguars,2021
+105,Jordan,WR,DJ Chark Jr.,Jacksonville Jaguars,2021
+107,Evan,QB,Trevor Lawrence,Jacksonville Jaguars,2021
+117,Dustin,WR,Laviska Shenault Jr.,Jacksonville Jaguars,2021
+25,Jordan,TE,George Kittle,San Francisco 49ers,2021
+57,Jordan,RB,Raheem Mostert,San Francisco 49ers,2021
+74,Alan,D/ST,49ers D/ST,San Francisco 49ers,2021
+90,Alan,WR,Brandon Aiyuk,San Francisco 49ers,2021
+102,Evan,WR,Deebo Samuel,San Francisco 49ers,2021
+26,Alan,TE,Darren Waller,Las Vegas Raiders,2021
+35,Renard,RB,Josh Jacobs,Las Vegas Raiders,2021
+27,Evan,RB,Joe Mixon,Cincinnati Bengals,2021
+65,Shawn,WR,Tee Higgins,Cincinnati Bengals,2021
+85,Dustin,WR,Ja'Marr Chase,Cincinnati Bengals,2021
+104,Jordan,WR,Tyler Boyd,Cincinnati Bengals,2021
+112,Shawn,QB,Joe Burrow,Cincinnati Bengals,2021
+30,Renard,RB,Miles Sanders,Philadelphia Eagles,2021
+54,Evan,TE,Dallas Goedert,Philadelphia Eagles,2021
+96,Shawn,WR,DeVonta Smith,Philadelphia Eagles,2021
+108,Dustin,QB,Jalen Hurts,Philadelphia Eagles,2021
+32,Shawn,WR,Allen Robinson II,Chicago Bears,2021
+33,Shawn,RB,David Montgomery,Chicago Bears,2021
+37,Dustin,RB,D'Andre Swift,Detroit Lions,2021
+50,Solomon,TE,T.J. Hockenson,Detroit Lions,2021
+38,Evan,WR,Chris Godwin,Tampa Bay Buccaneers,2021
+41,Jordan,WR,Mike Evans,Tampa Bay Buccaneers,2021
+56,Jordan,D/ST,Buccaneers D/ST,Tampa Bay Buccaneers,2021
+82,Solomon,QB,Tom Brady,Tampa Bay Buccaneers,2021
+84,Sai,TE,Rob Gronkowski,Tampa Bay Buccaneers,2021
+114,Solomon,RB,Leonard Fournette,Tampa Bay Buccaneers,2021
+124,Dustin,RB,Ronald Jones II,Tampa Bay Buccaneers,2021
+126,Renard,K,Ryan Succop,Tampa Bay Buccaneers,2021
+42,Alan,WR,Robert Woods,Los Angeles Rams,2021
+59,Evan,WR,Cooper Kupp,Los Angeles Rams,2021
+68,Sai,WR,Odell Beckham Jr.,Los Angeles Rams,2021
+70,Evan,D/ST,Rams D/ST,Los Angeles Rams,2021
+101,Dustin,RB,Sony Michel,Los Angeles Rams,2021
+118,Evan,RB,Darrell Henderson Jr.,Los Angeles Rams,2021
+127,Solomon,K,Matt Gay,Los Angeles Rams,2021
+47,Solomon,RB,J.K. Dobbins,Baltimore Ravens,2021
+49,Shawn,TE,Mark Andrews,Baltimore Ravens,2021
+63,Solomon,D/ST,Ravens D/ST,Baltimore Ravens,2021
+69,Dustin,QB,Lamar Jackson,Baltimore Ravens,2021
+77,Sai,K,Justin Tucker,Baltimore Ravens,2021
+51,Renard,QB,Mac Jones,New England Patriots,2021
+76,Dustin,D/ST,Patriots D/ST,New England Patriots,2021
+87,Alan,RB,Damien Harris,New England Patriots,2021
+120,Jordan,TE,Jonnu Smith,New England Patriots,2021
+75,Evan,RB,Myles Gaskin,Miami Dolphins,2021
+86,Evan,K,Jason Sanders,Miami Dolphins,2021
+92,Dustin,WR,William Fuller V,Miami Dolphins,2021
+115,Renard,TE,Mike Gesicki,Miami Dolphins,2021
+121,Jordan,WR,Jaylen Waddle,Miami Dolphins,2021
+125,Sai,QB,Tua Tagovailoa,Miami Dolphins,2021
+78,Renard,WR,Jerry Jeudy,Denver Broncos,2021
+80,Shawn,RB,Javonte Williams,Denver Broncos,2021
+88,Jordan,RB,Melvin Gordon III,Denver Broncos,2021
+106,Alan,TE,Noah Fant,Denver Broncos,2021
+123,Evan,WR,Courtland Sutton,Denver Broncos,2021
+95,Solomon,WR,Brandin Cooks,Houston Texans,2021
+99,Renard,WR,Antonio Brown, FA,2021
+110,Renard,WR,Corey Davis,New York Jets,2021
+1,Alan,RB,Christian McCaffrey,San Francisco 49ers,2022
+8,Dustin,WR,Deebo Samuel,San Francisco 49ers,2022
+38,Renard,TE,George Kittle,San Francisco 49ers,2022
+66,Evan,RB,Elijah Mitchell,San Francisco 49ers,2022
+84,Jordan,WR,Brandon Aiyuk,San Francisco 49ers,2022
+114,Evan,D/ST,49ers D/ST,San Francisco 49ers,2022
+2,Evan,RB,Jonathan Taylor,Indianapolis Colts,2022
+33,Alan,WR,Michael Pittman Jr.,Indianapolis Colts,2022
+124,Shawn,K,Matt Gay,Indianapolis Colts,2022
+3,Solomon,RB,Austin Ekeler,Los Angeles Chargers,2022
+27,Renard,WR,Keenan Allen,Los Angeles Chargers,2022
+34,Evan,WR,Mike Williams,Los Angeles Chargers,2022
+45,Jordan,QB,Justin Herbert,Los Angeles Chargers,2022
+125,Jordan,D/ST,Chargers D/ST,Los Angeles Chargers,2022
+4,Jordan,RB,Najee Harris,Pittsburgh Steelers,2022
+35,Solomon,WR,Diontae Johnson,Pittsburgh Steelers,2022
+5,Shawn,WR,Cooper Kupp,Los Angeles Rams,2022
+26,Austin,RB,Cam Akers,Los Angeles Rams,2022
+79,Evan,WR,Allen Robinson II,Los Angeles Rams,2022
+102,Renard,QB,Matthew Stafford,Los Angeles Rams,2022
+6,Renard,RB,Derrick Henry,Tennessee Titans,2022
+7,Austin,WR,Justin Jefferson,Minnesota Vikings,2022
+9,Dustin,RB,Dalvin Cook,Minnesota Vikings,2022
+76,Shawn,TE,T.J. Hockenson,Minnesota Vikings,2022
+10,Austin,RB,Alvin Kamara,New Orleans Saints,2022
+55,Austin,WR,Michael Thomas,New Orleans Saints,2022
+89,Dustin,RB,Jamaal Williams,New Orleans Saints,2022
+106,Austin,D/ST,Saints D/ST,New Orleans Saints,2022
+111,Evan,WR,Chris Olave,New Orleans Saints,2022
+122,Austin,WR,Jarvis Landry,New Orleans Saints,2022
+11,Renard,WR,Davante Adams,Las Vegas Raiders,2022
+57,Dustin,WR,Hunter Renfrow,Las Vegas Raiders,2022
+59,Renard,RB,Josh Jacobs,Las Vegas Raiders,2022
+128,Alan,K,Daniel Carlson,Las Vegas Raiders,2022
+12,Shawn,WR,Ja'Marr Chase,Cincinnati Bengals,2022
+15,Evan,RB,Joe Mixon,Cincinnati Bengals,2022
+23,Austin,WR,Tee Higgins,Cincinnati Bengals,2022
+100,Jordan,QB,Joe Burrow,Cincinnati Bengals,2022
+109,Jordan,K,Evan McPherson,Cincinnati Bengals,2022
+13,Jordan,RB,D'Andre Swift,Detroit Lions,2022
+37,Shawn,RB,David Montgomery,Detroit Lions,2022
+60,Shawn,WR,Amon-Ra St. Brown,Detroit Lions,2022
+14,Solomon,WR,Stefon Diggs,Buffalo Bills,2022
+41,Dustin,QB,Josh Allen,Buffalo Bills,2022
+68,Jordan,D/ST,Bills D/ST,Buffalo Bills,2022
+71,Austin,RB,Damien Harris,Buffalo Bills,2022
+80,Alan,WR,Gabe Davis,Buffalo Bills,2022
+96,Alan,RB,James Cook,Buffalo Bills,2022
+16,Alan,RB,Leonard Fournette, FA,2022
+29,Jordan,RB,Ezekiel Elliott, FA,2022
+75,Renard,WR,Adam Thielen, FA,2022
+94,Solomon,WR,Robert Woods, FA,2022
+110,Solomon,RB,Melvin Gordon III, FA,2022
+17,Alan,WR,CeeDee Lamb,Dallas Cowboys,2022
+50,Evan,WR,Brandin Cooks,Dallas Cowboys,2022
+90,Austin,RB,Tony Pollard,Dallas Cowboys,2022
+103,Austin,QB,Dak Prescott,Dallas Cowboys,2022
+120,Dustin,D/ST,Cowboys D/ST,Dallas Cowboys,2022
+18,Evan,TE,Travis Kelce,Kansas City Chiefs,2022
+46,Solomon,QB,Patrick Mahomes,Kansas City Chiefs,2022
+73,Dustin,RB,Clyde Edwards-Helaire,Kansas City Chiefs,2022
+105,Dustin,WR,Kadarius Toney,Kansas City Chiefs,2022
+127,Evan,K,Harrison Butker,Kansas City Chiefs,2022
+19,Solomon,RB,James Conner,Arizona Cardinals,2022
+48,Alan,WR,Marquise Brown,Arizona Cardinals,2022
+65,Alan,QB,Kyler Murray,Arizona Cardinals,2022
+78,Solomon,WR,DeAndre Hopkins,Arizona Cardinals,2022
+99,Solomon,TE,Zach Ertz,Arizona Cardinals,2022
+20,Jordan,TE,Mark Andrews,Baltimore Ravens,2022
+53,Shawn,RB,J.K. Dobbins,Baltimore Ravens,2022
+58,Austin,QB,Lamar Jackson,Baltimore Ravens,2022
+62,Solomon,WR,Rashod Bateman,Baltimore Ravens,2022
+117,Shawn,D/ST,Ravens D/ST,Baltimore Ravens,2022
+119,Austin,K,Justin Tucker,Baltimore Ravens,2022
+21,Shawn,RB,Javonte Williams,Denver Broncos,2022
+47,Evan,WR,Courtland Sutton,Denver Broncos,2022
+64,Alan,WR,Jerry Jeudy,Denver Broncos,2022
+108,Shawn,QB,Russell Wilson,Denver Broncos,2022
+22,Renard,WR,A.J. Brown,Philadelphia Eagles,2022
+69,Shawn,QB,Jalen Hurts,Philadelphia Eagles,2022
+82,Evan,RB,Rashaad Penny,Philadelphia Eagles,2022
+85,Shawn,WR,DeVonta Smith,Philadelphia Eagles,2022
+93,Jordan,TE,Dallas Goedert,Philadelphia Eagles,2022
+24,Dustin,WR,Tyreek Hill,Miami Dolphins,2022
+44,Shawn,WR,Jaylen Waddle,Miami Dolphins,2022
+107,Renard,D/ST,Dolphins D/ST,Miami Dolphins,2022
+25,Dustin,TE,Kyle Pitts,Atlanta Falcons,2022
+72,Dustin,WR,Drake London,Atlanta Falcons,2022
+88,Dustin,RB,Cordarrelle Patterson,Atlanta Falcons,2022
+121,Dustin,K,Younghoe Koo,Atlanta Falcons,2022
+28,Shawn,RB,Nick Chubb,Cleveland Browns,2022
+52,Jordan,WR,Amari Cooper,Cleveland Browns,2022
+67,Solomon,RB,Kareem Hunt,Cleveland Browns,2022
+30,Solomon,RB,Aaron Jones,Green Bay Packers,2022
+86,Renard,QB,Aaron Rodgers,Green Bay Packers,2022
+92,Shawn,RB,AJ Dillon,Green Bay Packers,2022
+115,Solomon,D/ST,Packers D/ST,Green Bay Packers,2022
+31,Evan,WR,Mike Evans,Tampa Bay Buccaneers,2022
+42,Austin,WR,Chris Godwin,Tampa Bay Buccaneers,2022
+77,Jordan,RB,Chase Edmonds,Tampa Bay Buccaneers,2022
+95,Evan,QB,Tom Brady,Tampa Bay Buccaneers,2022
+113,Alan,D/ST,Buccaneers D/ST,Tampa Bay Buccaneers,2022
+118,Renard,K,Ryan Succop,Tampa Bay Buccaneers,2022
+123,Renard,WR,Julio Jones,Tampa Bay Buccaneers,2022
+32,Alan,RB,Saquon Barkley,New York Giants,2022
+49,Alan,TE,Darren Waller,New York Giants,2022
+36,Jordan,WR,Terry McLaurin,Washington Commanders,2022
+56,Dustin,RB,Antonio Gibson,Washington Commanders,2022
+39,Austin,WR,DJ Moore,Chicago Bears,2022
+63,Evan,WR,Darnell Mooney,Chicago Bears,2022
+116,Jordan,WR,Chase Claypool,Chicago Bears,2022
+40,Dustin,RB,Breece Hall,New York Jets,2022
+91,Renard,WR,Allen Lazard,New York Jets,2022
+98,Evan,WR,Elijah Moore,New York Jets,2022
+101,Shawn,WR,Garrett Wilson,New York Jets,2022
+43,Renard,RB,Travis Etienne Jr.,Jacksonville Jaguars,2022
+83,Solomon,WR,Christian Kirk,Jacksonville Jaguars,2022
+51,Solomon,TE,Dalton Schultz,Houston Texans,2022
+74,Austin,RB,Devin Singletary,Houston Texans,2022
+54,Renard,WR,DK Metcalf,Seattle Seahawks,2022
+97,Alan,RB,Kenneth Walker III,Seattle Seahawks,2022
+104,Dustin,WR,Tyler Lockett,Seattle Seahawks,2022
+61,Jordan,WR,JuJu Smith-Schuster,New England Patriots,2022
+81,Alan,RB,Rhamondre Stevenson,New England Patriots,2022
+87,Austin,TE,Mike Gesicki,New England Patriots,2022
+112,Alan,RB,James Robinson,New England Patriots,2022
+126,Solomon,K,Nick Folk,New England Patriots,2022
+70,Renard,RB,Miles Sanders,Carolina Panthers,2022
